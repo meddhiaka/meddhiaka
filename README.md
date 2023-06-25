@@ -10,7 +10,7 @@
 <br>
 
 ## Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react) ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass) ![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=Mongodb) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=Tailwindcss) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=Mongodb) ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![HTTPie](https://img.shields.io/badge/-HTTPie-05122A?style=flat&logo=HTTPie) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 <br>
